@@ -49,7 +49,6 @@ Data:
 (608, 3)
 ```
 
-**Label: { 0 : Dog, 1 : Cat }**
 
 ![View data](https://github.com/KhoaHCMUS/Cat_and_Dog_classification/blob/master/image/data.png)
 
