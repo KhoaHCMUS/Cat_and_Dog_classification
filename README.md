@@ -2,7 +2,7 @@
 Using VGG19 and Data Augmentation
 Source code in ````Model/source.ipynb````
 [Deploy Model by using render](https://cat-and-dog-classification.onrender.com)
-![Deploy](image\deploy.png)
+![Deploy](https://github.com/KhoaHCMUS/Cat_and_Dog_classification/blob/master/image/deploy.png)
 
 ## Guide run local
 Install all library to run app.py file:
@@ -15,7 +15,7 @@ Then you can run the below syntax to run the application
 streamlit run app.py
 ```
 *Ortherwise, You can test your picture by ipynb file in ````Model/test.ipynb````*
-![test](image\test.png)
+![test](https://github.com/KhoaHCMUS/Cat_and_Dog_classification/blob/master/image/test.png)
 
 
 Data:
@@ -48,7 +48,7 @@ Data:
 
 **Label: { 0 : Dog, 1 : Cat }**
 
-![View data](image\data.png)
+![View data](https://github.com/KhoaHCMUS/Cat_and_Dog_classification/blob/master/image/data.png)
 
 
 ## Model
@@ -98,7 +98,7 @@ F1 Score: 0.9768497330282226
 weighted avg       0.98      0.98      0.98       607
 ```
 ## Performance
-![View data](image\performance.png)
+![View data](https://github.com/KhoaHCMUS/Cat_and_Dog_classification/blob/master/image/performance.png)
 
 
 
