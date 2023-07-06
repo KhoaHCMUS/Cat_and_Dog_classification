@@ -3,7 +3,7 @@ Using VGG19 and Data Augmentation
 
 Source code in ````Model/source.ipynb````
 
-[Deploy Model by using render](https://cat-and-dog.onrender.com/)
+[Deploy Model by using streamlit cloud](https://catanddogclassification.streamlit.app/)
 
 ![Deploy](https://github.com/KhoaHCMUS/Cat_and_Dog_classification/blob/master/image/deploy.png)
 
